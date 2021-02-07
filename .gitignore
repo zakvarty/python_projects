@@ -129,4 +129,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Serial troublemakers 
 */.idea/
+day_19_racing_turtles/main.py
